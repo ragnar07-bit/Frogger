@@ -260,8 +260,8 @@ Vedi il file `LICENSE` per i dettagli completi.
 
 **Studente UNIPR** - Progetto per corso di programmazione
 
-- 📧 Email: [tua-email@example.com]
-- 🔗 GitHub: [github.com/USERNAME]
+- 📧 Email: [ciprianos@poloagroindustriale.edu.it]
+- 🔗 GitHub: [github.com/ragnar07-bit]
 - 🏫 Università: Università di Parma
 
 ---
